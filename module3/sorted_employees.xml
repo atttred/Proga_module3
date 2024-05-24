@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Name>Albert Johnson</Name>
+    <Position>Analyst</Position>
+    <HireDate>2008-11-15T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <Name>John Doe</Name>
+    <Position>Manager</Position>
+    <HireDate>2010-04-01T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <Name>Jane Smith</Name>
+    <Position>Developer</Position>
+    <HireDate>2015-06-23T00:00:00</HireDate>
+  </Employee>
+  <Employee>
+    <Name>John Smith</Name>
+    <Position>Analyst</Position>
+    <HireDate>2020-11-15T00:00:00</HireDate>
+  </Employee>
+</Employees>
